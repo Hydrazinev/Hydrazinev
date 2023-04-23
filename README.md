@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Hydrazinev/Hydrazinev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi There, I'M Vaidik 👋
 
-Here are some ideas to get you started:
+<img>![gojo](https://user-images.githubusercontent.com/87151310/233831049-e1e6eddb-b593-47dc-8f0d-3fcb5acdb738.gif)</img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a full stack developer...
+
+
+## Brief about me!
+
+🧠 I'm currently working on python
+
+
+🤔 I'm looking for help with learning AI/ML
+
+
+⚡️ Fun fact I LOVEEEE to watch anime!!
+
