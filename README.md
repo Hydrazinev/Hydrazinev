@@ -1,5 +1,6 @@
 
-# Hi There, I'M Vaidik 👋
+# Hi There, I'M Vaidik! 👋
+
 
 <img>![gojo](https://user-images.githubusercontent.com/87151310/233831049-e1e6eddb-b593-47dc-8f0d-3fcb5acdb738.gif)</img>
 
